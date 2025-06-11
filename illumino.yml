@@ -1,0 +1,28 @@
+project:
+  name: Illumino
+  author: DARSHAN-SAI-M
+  description: >
+    An automatic LED control system using Arduino and an LDR sensor.
+    The LED lights up in dark environments based on analog readings.
+  version: 1.0.0
+  license: MIT
+  platform: Arduino Uno
+  components:
+    - Arduino Uno
+    - LDR
+    - 10kΩ resistor
+    - LED
+    - 220Ω resistor
+    - Breadboard
+    - Jumper Wires
+  tags:
+    - arduino
+    - ldr
+    - light sensor
+    - automatic light
+    - tinkercad
+    - beginner project
+  github:
+    repo: https://github.com/your-username/illumino
+    release: v1.0.0
+    tinkercad: https://www.tinkercad.com/things/eomFzwhf3Tp-illumino
